@@ -1,3 +1,13 @@
+## Summary
+
+This todo app is to practice making draggable and droppable components. The app uses React, react-beautiful-dnd, a css reset (basically resets all CSS properties to reduce conflicts across browsers), and a library called styled-components.
+
+NOTE: a few libraries have updated, so some of the code is different. Previously innerRef was used in the draggable components, but is now written as ref. Also, there seems to be an issue with the update/files between yarn and npm, though I haven't determined exactly what. Needed to download npm babel in the app and it appeared to fix the problem.
+
+
+
+## ------------------------------------------ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +76,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+#draggableTodo
